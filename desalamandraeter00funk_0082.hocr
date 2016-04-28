@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desalamandraeter00funk_0082.png"; bbox 0 0 2574 4123; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1671 769 1686 824">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1671 769 1686 824">
+     <span class='ocr_line' id='line_1_1' title="bbox 1671 769 1686 824; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1671 769 1686 824; x_wconf 31' lang='grc' dir='ltr'>ατὰ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1013 2807 1451 2941">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1013 2807 1451 2941">
+     <span class='ocr_line' id='line_1_2' title="bbox 1013 2807 1369 2862; baseline -0.07 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1013 2851 1015 2854; x_wconf 56' lang='lat'>&lt;</span> <span class='ocrx_word' id='word_1_3' title='bbox 1042 2859 1044 2862; x_wconf 73' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1115 2821 1195 2852; x_wconf 76' lang='lat' dir='ltr'>MCZ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1214 2807 1369 2847; x_wconf 44' lang='lat' dir='ltr'>1³3*sz</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1041 2844 1451 2900; baseline -0.068 0"><span class='ocrx_word' id='word_1_6' title='bbox 1041 2863 1214 2900; x_wconf 56' lang='grc' dir='ltr'>ΗᾹΡλΙᾹΓῑΒ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1236 2844 1451 2886; x_wconf 49' lang='grc' dir='ltr'>ὈξέἱῖΐΞΓ-’,ΞΠὙ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1053 2887 1446 2941; baseline -0.069 0"><span class='ocrx_word' id='word_1_8' title='bbox 1053 2900 1276 2941; x_wconf 63' lang='lat' dir='ltr'>CAMEfflDGE.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1297 2894 1348 2925; x_wconf 79' lang='grc' dir='ltr'>ΜΑ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1369 2887 1446 2918; x_wconf 62' lang='grc' dir='ltr'>ΗΒΑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2172 0 2564 4116">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2172 0 2564 4116">
+     <span class='ocr_line' id='line_1_5' title="bbox 2172 0 2564 4116; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 2172 0 2564 4116; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

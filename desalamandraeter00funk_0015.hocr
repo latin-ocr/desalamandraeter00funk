@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desalamandraeter00funk_0015.png"; bbox 0 0 2574 4123; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 731 1906 1878 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 731 1906 1878 1959">
+     <span class='ocr_line' id='line_1_1' title="bbox 731 1906 1878 1959; baseline -0.01 -10"><span class='ocrx_word' id='word_1_1' title='bbox 731 1913 885 1949; x_wconf 68' lang='lat' dir='ltr'><em>Auribus</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 911 1911 1067 1959; x_wconf 72' lang='lat' dir='ltr'><strong><em>percipe</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1093 1909 1180 1955; x_wconf 71' lang='lat' dir='ltr'><strong><em>hoc,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1211 1914 1286 1953; x_wconf 79' lang='lat' dir='ltr'><em>sta,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1324 1913 1361 1943; x_wconf 83' lang='lat' dir='ltr'><strong><em>et</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1387 1907 1550 1954; x_wconf 61' lang='lat' dir='ltr'><strong><em>mtelhgre</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1581 1906 1767 1943; x_wconf 70' lang='lat' dir='ltr'><em>mirabilia</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1797 1906 1878 1940; x_wconf 67' lang='lat' dir='ltr'><strong><em>Det.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1801 1987 2275 2041">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1801 1987 2275 2041">
+     <span class='ocr_line' id='line_1_2' title="bbox 1801 1987 2275 2041; baseline 0.002 -8"><span class='ocrx_word' id='word_1_9' title='bbox 1801 1991 1927 2033; x_wconf 90' lang='lat' dir='ltr'>Hiob.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1957 1987 2174 2041; x_wconf 84' lang='lat' dir='ltr'>XXXVII,</span> <span class='ocrx_word' id='word_1_11' title='bbox 2209 1990 2275 2038; x_wconf 74' lang='lat'><strong><em>14.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
